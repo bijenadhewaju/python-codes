@@ -1,11 +1,4 @@
-# # Create a menu driven program for the following repo and return with github link:
-# BMI calculator 
-# Taxation system 
-# Currency converter
-# Remittance 
-# Lagani kosh 
-# Invalid 
-
+# Create a menu driven program
 def menu():
     print("List of services:")
     print("1. BMI Calculator")
